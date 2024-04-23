@@ -74,3 +74,5 @@ http://192.168.0.220:4022/rtp/239.77.0.198:5146
 http://192.168.0.220:4022/rtp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="118" tvg-name="CCTV-4K 超高清" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/Mainland%20China(logo)/China%20Central%20Television/CCTV-4K.png?raw=true" group-title="[Mainland China]中國大陸(央視）",CCTV-4K 超高清
 http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-id=“77” tvg-name=“HOY TV”  tvg-logo="" group-title=“[Hong Kong]香港（訊號測試）”,HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
