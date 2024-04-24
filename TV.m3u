@@ -79,4 +79,4 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlay
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="blob:https://hoy.tv/57c5886f-aca8-4ca8-b2d6-f97c7a5fb451" group-title="[Hong Kong]香港(訊號測試）",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="澳視澳門" tvg-logo="blob:https://hoy.tv/57c5886f-aca8-4ca8-b2d6-f97c7a5fb451" group-title="[Macau]澳門(訊號測試）",澳視澳門
-https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
