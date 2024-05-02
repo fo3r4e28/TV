@@ -81,7 +81,7 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/HOY.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="U23亞洲盃足球賽季軍賽-伊拉克 對 印尼（晚上11:30）" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/HOY.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",U23亞洲盃足球賽季軍賽-伊拉克 對 印尼（晚上11:30）
-https://d238cgug17vwpr.cloudfront.net/ch1/live-2-v-fhd.m3u8
+https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY 資訊台" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/HOY.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/TVB.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",無綫新聞台
