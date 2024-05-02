@@ -77,7 +77,7 @@ http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/RTHK%2031.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",港台電視 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/HOY.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",HOY 國際財經台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/HOY.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="U23亞洲盃足球賽季軍賽-伊拉克 對 印尼（晚上11:30）" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/HOY.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",U23亞洲盃足球賽季軍賽-伊拉克 對 印尼（晚上11:30）
