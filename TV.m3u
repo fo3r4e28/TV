@@ -78,3 +78,5 @@ http://159.75.85.63:5679/cctv4k.php
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/HOY.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="澳視澳門" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/Macau%20Television.png?raw=true" group-title="[Macau]澳門(訊號測試）",澳視澳門
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
