@@ -91,4 +91,4 @@ https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/53240
 #EXTINF:-1 tvg-id="1" tvg-name="TVB生活台（訊號測試）" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/TVB%20USA.png?raw=true" group-title="[Hong Kong]香港(訊號測試）",TVB生活台（訊號測試）
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=23.247.137.61~st=1714725421~exp=1714811821~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=f966015eb30a146bdd5da71a0c8bb5550c05e7c4eb562da86e7b2b8c4d4579ac&p=3000
 #EXTINF:-1 tvg-id="91" tvg-name="澳視澳門" tvg-logo="https://github.com/fo3r4e28/TV/blob/main/Macau%20Television.png?raw=true" group-title="[Macau]澳門(訊號測試）",澳視澳門
-https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
